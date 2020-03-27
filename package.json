@@ -1,0 +1,23 @@
+{
+  "name": "allbluejs",
+  "version": "0.0.1",
+  "description": "micoro fe framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/allblue.git"
+  },
+  "keywords": [
+    "micro",
+    "fe"
+  ],
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/allblue/issues"
+  },
+  "homepage": "https://github.com/jackness1208/allblue#readme"
+}
